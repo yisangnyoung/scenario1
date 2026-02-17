@@ -1,0 +1,5 @@
+/home/yisangnyoung/rust_servers/scenario1/ezytutors/target/debug/deps/actix_macros-f2500e5b66beff82.d: /home/yisangnyoung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-macros-0.2.4/src/lib.rs
+
+/home/yisangnyoung/rust_servers/scenario1/ezytutors/target/debug/deps/libactix_macros-f2500e5b66beff82.so: /home/yisangnyoung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-macros-0.2.4/src/lib.rs
+
+/home/yisangnyoung/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/actix-macros-0.2.4/src/lib.rs:
